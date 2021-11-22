@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   font-family: 'Montagu Slab', serif;
+  background: rgb(207, 207, 207);
 }
 
 
@@ -45,6 +46,21 @@ p{
 }
 
 #horses{
+  height: 100vh;
+  width: 100vw;
+}
+
+#maneuvers{
+  height: 100vh;
+  width: 100vw;
+}
+
+#biopsycho{
+  height: 100vh;
+  width: 100vw;
+}
+
+#wrap{
   height: 100vh;
   width: 100vw;
 }
