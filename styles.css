@@ -1,4 +1,50 @@
 *{
   padding: 0;
   margin: 0;
+  font-family: 'Montagu Slab', serif;
+}
+
+
+#main-box{
+  height: 95vh;
+  width: 100vw;
+
+}
+
+.title{
+  font-size: 5em;
+  text-align: center;
+  margin: .5em;
+  border-bottom: 1px dotted black;
+}
+
+p{
+  font-weight: bold;
+}
+
+.paragraph{
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+#genghisImage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#genghisImg{
+  height: 50vh;
+  width: auto;
+  padding-top: 7.5vh;
+}
+
+#weapons{
+  height: 100vh;
+  width: 100vw;
+}
+
+#horses{
+  height: 100vh;
+  width: 100vw;
 }
